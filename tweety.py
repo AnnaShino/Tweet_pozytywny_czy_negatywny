@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan  2 15:43:59 2021
 
-@author: pauli
-"""
 import numpy as np
 import pandas as pd
 import silence_tensorflow.auto
