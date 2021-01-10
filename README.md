@@ -8,9 +8,10 @@ PRACA Z KODEM
 5) Stwórz model treningowy za pośrednictwem kodu "trening.py" - przykładowe dane: https://github.com/shwetachandel/Twitter-Sentiment-Analysis
 6) Po stworzeniu danych treningowych możesz przejść do działania z "tweety.py" (poprzez terminal lub dowolną aplikację np. Spyder)
 
-W przypadku działania w terminalu komenda wraz z argumentami to:  -> python .\tweety.py [wyszukiwane slowo] [data] [liczba wyszukań] [język modelu]  (np. python .\tweety.py thor 2019-12-20 40 en)
+# W przypadku działania w terminalu, komenda wraz z argumentami to:  
+-> python .\tweety.py [wyszukiwane slowo] [data] [liczba wyszukań] [język modelu]  (np. python .\tweety.py thor 2019-12-20 40 en)
 
-WYMAGANE
+# WYMAGANE
 → pip install numby 
 → pip install pandas 
 → pip install tensorflow 
