@@ -61,10 +61,6 @@ except:
                  "Czwarty - język wykorzystywanego modelu (np. en)\n"
                  "np. python .\zadanie_dodatkowe_tweety.py duda 2019-12-20 40 en \n")
 
-
-#if count(sys.argv) < 5:
-#    sys.exit()
-
 #Kod w przypadku bezporedniego działania na kodzie
 #phrase = '#thor'
 #date_since = "2020-12-01"
