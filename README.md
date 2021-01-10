@@ -18,3 +18,11 @@ WYMAGANE
 → pip install tweepy 
 → pip install wordcloud
 → pip install silence_tensorflow 
+
+
+# Ciekawe linki (pomocne przy tworzeniu tych kodów)
+1) https://monkeylearn.com/blog/sentiment-analysis-of-twitter/ 
+2) https://towardsdatascience.com/twitter-sentiment-analysis-in-python-1bafebe0b566 
+3) https://medium.com/better-programming/twitter-sentiment-analysis-15d8892c0082 
+4) https://medium.com/@himanshu_23732/tweet-text-analysis-3b7b3e2531 
+5) https://www.earthdatascience.org/courses/use-data-open-source-python/intro-to-apis/twitter-data-inpython/
