@@ -5,9 +5,17 @@
 2) Umieść w folderze _„Tweety”_ plik _tweety.py_ oraz _trening.py_
 3) Utwórz w folderze _„Tweety”_ foldery o nazwach _„klucze”_ oraz _„wyniki”_
 
+**Poniżej przedstawiona struktura folderu użytkowego**
+
 ![Struktura folderu](https://github.com/AnnaShino/Tweet_pozytywny_czy_negatywny/blob/main/STRUKTURA%20FOLDERU.png)
+
 4) W folderze „klucze” umieść klucze dostępu do Twitter API (otrzymane podczas rejestracji konta developerskiego Twitter: http://apps.twitter.com/) 
 5) Stwórz model treningowy za pośrednictwem kodu _"trening.py"_ - przykładowe dane: https://github.com/shwetachandel/Twitter-Sentiment-Analysis
+
+**Poniżej przedstawiona skuteczność modelu wytrenowanego na powyższych danych**
+
+![Model](https://github.com/AnnaShino/Tweet_pozytywny_czy_negatywny/blob/main/MODEL.png)
+
 6) Po stworzeniu danych treningowych możesz przejść do działania z _"tweety.py"_ (poprzez terminal lub dowolną aplikację np. Spyder)
 
 **W przypadku działania w terminalu, komenda wraz z argumentami to:**  
