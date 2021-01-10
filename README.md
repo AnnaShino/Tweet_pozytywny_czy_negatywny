@@ -22,6 +22,18 @@
   * python .\tweety.py [wyszukiwane slowo] [data] [liczba wyszukań] [język modelu]  
   * np. python .\tweety.py thor 2019-12-20 40 en
 
+## DZIAŁANIE SELEKCJONERA
+**Poniżej obraz z terminalu**
+
+![Widok terminalu](https://github.com/AnnaShino/Tweet_pozytywny_czy_negatywny/blob/main/DZIA%C5%81ANIE%20SELEKCJONERA.png)
+
+**Poniżej wyniki które zapisywane są w folderze _wyniki_**
+
+![Mapa słów](https://github.com/AnnaShino/Tweet_pozytywny_czy_negatywny/blob/main/MAPA%20S%C5%81OW.png)
+
+![Wykres słupkowy](https://github.com/AnnaShino/Tweet_pozytywny_czy_negatywny/blob/main/WYKRES.png)
+
+
 ## WYMAGANE
 * pip install numby 
 * pip install pandas 
